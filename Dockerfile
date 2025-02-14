@@ -1,8 +1,4 @@
-# syntaxdocker/dockerfile:1
-# Added new li
-
-
-# latest xommitne
+# syntaxdockere
 
 FROM node:12-alpine
 RUN apk add --no-cache python2 g++ make
