@@ -1,7 +1,9 @@
 # syntaxdockere/Dockerfile
 
 # Finally Webhook is triggered
-# Pipeline successfully run
+# Pipeline successfully ru
+
+# Today I build pipelinen
 
 FROM node:12-alpine
 RUN apk add --no-cache python2 g++ make
